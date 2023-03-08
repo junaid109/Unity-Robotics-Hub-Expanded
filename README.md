@@ -1,13 +1,13 @@
 <p align="center"><img src="images/warehouse.gif"/></p>
 
-# Unity Robotics Hub
+# Unity Robotics Hub Expanded 2023
 
 <!-- [![Version](https://img.shields.io/github/v/tag/Unity-Technologies/Unity-Robotics-Hub)](https://github.com/Unity-Technologies/Unity-Robotics-Hub/releases) -->
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![ROS](https://img.shields.io/badge/ros-melodic-brightgreen)
 ![ROS](https://img.shields.io/badge/ros-noetic-brightgreen)
 ![ROS](https://img.shields.io/badge/ros2-foxy-brightgreen)
-![Unity](https://img.shields.io/badge/unity-2020.2+-brightgreen)
+![Unity](https://img.shields.io/badge/unity-2021.3.20f1+-brightgreen)
 
 This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
